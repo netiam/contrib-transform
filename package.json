@@ -23,7 +23,7 @@
     "codeclimate-test-reporter": "0.4.0",
     "eslint": "3.14.1",
     "istanbul": "0.4.5",
-    "express": "4.14.1",
+    "express": "5.0.0-alpha.3",
     "mocha": "^3.0.0",
     "semantic-release": "6.3.2",
     "should": "^11.0.0",
